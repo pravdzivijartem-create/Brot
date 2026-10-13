@@ -21,6 +21,10 @@ body {
     background-color: #202023;
 }
 
+button{
+    cursor: pointer;
+}
+
 .main {
     position: absolute;
     position: fixed;
